@@ -1,4 +1,4 @@
-// Improvements
+## Improvements
 
 1. Add form to be able to add product.
 2. Add feature to be able to remove product
